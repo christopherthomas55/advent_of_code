@@ -4,3 +4,6 @@ I guess I'll try to do cpp if that fails
 
 Some days are better than others. Here's days with clean-er code imo
 - 6
+
+Some harder days include
+- 7
